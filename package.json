@@ -1,5 +1,5 @@
 {
-  "name": "drop-down-top",
+  "name": "dropdown-menu",
   "version": "1.0.0",
   "description": "A drop down for the odin project assignment",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/aish8la/drop-down-TOP.git"
   },
-  "author": "",
+  "author": "Aish Waheed",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aish8la/drop-down-TOP/issues"
