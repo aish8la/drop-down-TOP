@@ -47,8 +47,6 @@ npm run dev
 ```
 Then open `http://localhost:8080` in your browser.
 
-## License
-This package is open-source and available under the MIT License.
 
 ## Repository
 For source code, issues, and contributions, visit:
