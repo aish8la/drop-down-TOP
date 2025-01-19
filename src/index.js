@@ -1,6 +1,6 @@
 import "./style.css";
 
-function DropdownMenu() {
+export default function dropdownMenu() {
   document.addEventListener("click", (e) => {
     if (e.target.classList.contains("dropdown-btn")) {
       e.target.closest(".dropdown").classList.toggle("expand");
@@ -15,6 +15,6 @@ function DropdownMenu() {
     });
   });
 }
-
-export { DropdownMenu };
+// Uncomment to test
+// dropdownMenu();
 
